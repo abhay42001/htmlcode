@@ -1,0 +1,39 @@
+h2{
+    width: 238px;
+    height: 91px;
+    top: 15.51px;
+    left: 87px;
+    font: Autography;
+    font-weight: 400;
+    size: 48px ;
+    line-height: 90.62px;
+    color: black;
+}
+
+h1{
+    width: 493px;
+height: 144px;
+top: 240.08px;
+left: 80.61px;  
+
+}
+
+.image {
+    text-align: right; /* Align image to the right */
+}
+
+.container {
+    display: flex;
+    align-items: center; 
+}
+
+.text {
+    flex: 1; /* Take up available space */
+    padding-right: 20px; /* Add some space between text and image */
+    text-align: left; 
+}
+
+  .content {
+    height: 500px; 
+    overflow-y: auto; 
+}
